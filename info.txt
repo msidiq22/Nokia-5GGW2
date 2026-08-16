@@ -1,0 +1,21 @@
+Init bus...
+VCC: 3.3 V, VCCQ: 3.0 V
+Bus: 8 bit (HS SDR 48MHz)
+Access mode: sector mode
+Power supply: dual-voltage (1.70-1.95V, 2.7-3.6V)
+ Card/BGA: BGA (Discrete embedded) - High density MMC
+ Manufacturer ID: 0xF4 (BIWIN)
+ Product name: Biwin  (0x426977696e20), rev: 0x23, serial number: 0x492BA3CC
+ Manufacturing date: Feb 2024
+CID: F4012242 6977696E 2023492B A3CC2B74
+CSD: D00F0132 0F5903FF FFFFFFEF 8A404010
+Firmware version: 0x5021800400000000
+EXT_CSD revision: 1.8 (MMC v5.1) 
+Partition info:
+ Boot1: 4 MiB
+ Boot2: 4 MiB
+ RPMB: 4 MiB [Authentication Key not yet programmed]
+ User area: 3.38 GiB(3,623,878,656 bytes)
+userdata fs: extfs
+crypto state: encrypted?
+Preset sets to 1.93 GiB (exclude userdata)
